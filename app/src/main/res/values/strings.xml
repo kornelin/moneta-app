@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Moneta NBA Players App</string>
+    <string name="title_activity_player_list_screen">PlayerListScreen</string>
+</resources>
